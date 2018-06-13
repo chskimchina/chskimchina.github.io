@@ -1,7 +1,7 @@
 # Site settings
 title: BY Blog
 SEOTitle: 金春城的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+header-img: #img/post-bg-desk.jpg
 email: chskim@163.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 金春城的博客, objective-c, 金春城, iOS, Apple, iPhone"
